@@ -1,0 +1,13 @@
+{
+    "wait": "Chottomatte kudasai nee...",
+    "error": {
+        "Iv": "Link nya nggak valid kak...",
+        "api": "Mōshiwakearimasen,sedang ada masalah..."
+    },
+    "OnlyGrup": "Perintah khusus di grup,baka!!",
+    "OnlyPM": "Perintah private message,dasar baka..",
+    "GrupAdmin": "Perintah khusus admin kak...",
+    "BotAdmin": "Bot Harus admin kak..",
+    "OnlyOwner": "Perintah khusus ownerku ^_^",
+    "OnlyPrem": "Perintah khusus mem prem ya kak..."
+}
