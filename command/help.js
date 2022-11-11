@@ -231,6 +231,7 @@ ${mundur}
  • ${prefix}left
  • ${prefix}self
  • ${prefix}public
+ • ${prefix}setppbot2
  • ${prefix}setppbot
  • ${prefix}broadcast
  • ${prefix}bcimg
