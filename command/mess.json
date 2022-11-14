@@ -1,13 +1,13 @@
 {
-    "wait": "Chottomatte kudasai nee...",
+    "wait": "_Sedang Di Proses_",
     "error": {
-        "Iv": "Link nya nggak valid kak...",
-        "api": "Mōshiwakearimasen,sedang ada masalah..."
+        "Iv": "Link yang kamu berikan tidak valid",
+        "api": "Maaf terjadi kesalahan"
     },
-    "OnlyGrup": "Perintah khusus di grup,baka!!",
-    "OnlyPM": "Perintah private message,dasar baka..",
-    "GrupAdmin": "Perintah khusus admin kak...",
-    "BotAdmin": "Bot Harus admin kak..",
-    "OnlyOwner": "Perintah khusus ownerku ^_^",
-    "OnlyPrem": "Perintah khusus mem prem ya kak..."
+    "OnlyGrup": "Perintah ini hanya bisa digunakan di grup",
+    "OnlyPM": "Perintah ini hanya bisa digunakan di private message",
+    "GrupAdmin": "Perintah ini hanya bisa digunakan oleh Admin Grup",
+    "BotAdmin": "Bot Harus menjadi admin",
+    "OnlyOwner": "Perintah ini hanya dapat digunakan oleh owner bot",
+    "OnlyPrem": "Perintah ini khusus member premium"
 }
